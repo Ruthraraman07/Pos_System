@@ -35,6 +35,8 @@ This is a Point of Sale (POS) system built as a React web application. It provid
 ![Screenshot 2025-06-19 144208](https://github.com/user-attachments/assets/e0c8496f-8fc8-48a0-9e87-e92f48d1fe3c)
 ![Screenshot 2025-06-19 144234](https://github.com/user-attachments/assets/2c93b898-dd43-4015-a520-a56992e25358)
 
+## Demo Video: 
+https://getshared.com/OzwUtuPV
 
 ## Known Limitations / Features Not Implemented
 - This README does not currently list specific limitations or unimplemented features. Please update this section as needed to reflect the current state of the project.
