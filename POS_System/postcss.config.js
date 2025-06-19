@@ -1,0 +1,9 @@
+// ✅ Updated config
+module.exports = {
+  plugins: [
+    require('@tailwindcss/postcss')(),
+    require('autoprefixer'),
+  ],
+};
+
+     
